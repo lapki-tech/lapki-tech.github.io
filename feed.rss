@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Lapki.tech</title><link>https://lapki-tech.github.io//index.html</link>
+<description>A blog about technology, science and cat paws</description><language>en</language>
+<lastBuildDate>Sun, 30 May 2021 22:21:25 +0300</lastBuildDate>
+<pubDate>Sun, 30 May 2021 22:21:25 +0300</pubDate>
+<atom:link href="https://lapki-tech.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+# Getting started with Machine Learning using Uber Ludwig
+</title><description><![CDATA[
+
+<!-- text end -->
+]]></description><link>https://lapki-tech.github.io//-getting-started-with-machine-learning-using-uber-ludwig.html</link>
+<guid>https://lapki-tech.github.io//./-getting-started-with-machine-learning-using-uber-ludwig.html</guid>
+<dc:creator>Bogdan Kirillov</dc:creator>
+<pubDate>Sun, 30 May 2021 22:21:12 +0300</pubDate></item>
+</channel></rss>
